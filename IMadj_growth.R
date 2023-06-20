@@ -1,5 +1,5 @@
 setwd("C:\\Users") # set working dir 
-data <- read.csv("OECD_IO2021_.csv") # add country name to load the IOT
+data <- read.csv("OECD_IO2021_country.csv") # add country name to load the IOT
 conversion <- read.csv("Conversion_rate.csv") # load the conversion rates
 
 ################################################################
